@@ -1,0 +1,53 @@
+body {
+	background-image: url("flag blur.png");
+	background-color: #ffffff;
+	background-attachment: fixed;
+	background-position: right 0px top -25px;
+}
+
+div.servers {
+	text-align: left;
+	float: left;
+	display: table;
+	font-size: 175%;
+}
+
+div.walloftext {
+	text-align: right;
+	float: right;
+	width: 55%;
+	font-size: 140%
+}
+
+div.serverdetails {
+	position: absolute;
+	top: 45%;
+	width: 55%;
+	font-size: 150%
+}
+
+div.buttons {
+	position: absolute;
+	top: 70%;
+	left: 0%;
+	width: auto;
+	height: auto;
+}
+
+h1 {
+	color: white;
+}
+
+h3 { 
+	color: white;
+	text-decoration: underline;
+}
+
+h4 {
+	color: white;
+}
+
+h6 {
+	color: white;
+	text-decoration: underline;
+}
