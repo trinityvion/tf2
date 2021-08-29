@@ -28,13 +28,17 @@ div.serverdetails {
 
 div.buttons {
 	position: absolute;
-	top: 70%;
-	left: 0%;
-	width: auto;
-	height: auto;
+	text-align: right;
+	right: 0%;
+	bottom: 0%;
+	width: 55%;
 }
 
 h1 {
+	color: white;
+}
+
+h2 {
 	color: white;
 }
 
