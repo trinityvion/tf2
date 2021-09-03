@@ -7,6 +7,7 @@ cp_egypt_final.bsp
 cp_fastlane.bsp
 cp_foundry.bsp
 cp_freight_final1.bsp
+cp_furnace_rc.bsp
 cp_gorge.bsp
 cp_gorge_event.bsp
 cp_granary.bsp
@@ -51,16 +52,20 @@ koth_suijin.bsp
 koth_undergrove_event.bsp
 koth_viaduct.bsp
 koth_viaduct_event.bsp
+koth_watermill_final.bsp
 pl_badwater.bsp
 pl_barnblitz.bsp
 pl_bloodwater.bsp
 pl_borneo.bsp
 pl_cactuscanyon.bsp
+pl_downward.bsp
 pl_enclosure_final.bsp
 pl_fifthcurve_event.bsp
 pl_frontier_final.bsp
 pl_goldrush.bsp
+pl_goodwater.bsp
 pl_hasslecastle.bsp
+pl_hatfactory55.bsp
 pl_hoodoo_final.bsp
 pl_millstone_event.bsp
 pl_pier.bsp
@@ -69,5 +74,7 @@ pl_rumble_event.bsp
 pl_snowycoast.bsp
 pl_swiftwater_final1.bsp
 pl_thundermountain.bsp
+pl_turbinerushfort_final.bsp
 pl_upward.bsp
+pl_upward_abandoned.bsp
 pl_wutville_event.bsp
