@@ -21,7 +21,7 @@ div.walloftext {
 
 div.serverdetails {
 	position: absolute;
-	bottom: 20%;
+	bottom: 0%;
 	width: 55%;
 	font-size: 170%
 }
@@ -58,4 +58,8 @@ h4 {
 h6 {
 	color: white;
 	text-decoration: underline;
+}
+
+a {
+	color:white
 }
